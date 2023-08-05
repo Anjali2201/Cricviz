@@ -1,3 +1,16 @@
+# Hello all ✨
+
+Welcome to the CrickViz GitHub repository! We are Team **CodeVoyagers** , a passionate group and our members are :
+- Rutuja Thakare (Team Leader)  
+ - Sanskriti Gupta 
+ - Arya Harde 
+ - Shruti Fadnavis 
+ - Anvi Burde 
+ - Anjali Kushwaha
+ 
+  We are thrilled to present to you our innovative project, CrickViz.
+
+Project PPT: 
 # CRICVIZ 🏏
 
 🔮CrickViz was born out of our unwavering passion for cricket and the desire to go beyond the ordinary. We envisioned a platform that offers in-depth cricket analytics, match predictions, and player insights, catering to the diverse needs of cricket enthusiasts, coaches, analysts, and fantasy cricket players.
