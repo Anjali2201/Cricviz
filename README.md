@@ -10,7 +10,7 @@ Welcome to the CrickViz GitHub repository! We are Team **CodeVoyagers** , a pass
  
   We are thrilled to present to you our innovative project, CrickViz.
 
-Project PPT: 
+Project PPT: https://drive.google.com/file/d/102-yyqp8kLVXp-TX7KKJuKjnwsRPCh28/view?usp=sharing ([https://www.google.com](https://drive.google.com/file/d/102-yyqp8kLVXp-TX7KKJuKjnwsRPCh28/view?usp=sharing))
 # CRICVIZ 🏏
 
 🔮CrickViz was born out of our unwavering passion for cricket and the desire to go beyond the ordinary. We envisioned a platform that offers in-depth cricket analytics, match predictions, and player insights, catering to the diverse needs of cricket enthusiasts, coaches, analysts, and fantasy cricket players.
